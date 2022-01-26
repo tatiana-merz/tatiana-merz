@@ -26,6 +26,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
+<!-- tsk -->
 **Languages and Tools:** 
 
 <!-- Your github readme stats
