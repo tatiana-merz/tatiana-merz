@@ -1,6 +1,6 @@
 <!-- Your title
  https://github.com/anuraghazra/github-readme-stats -->
-### Hi there 👋
+## Hi there 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center">
  
-## Talking about Personal Stuff:
+### Talking about Personal Stuff:
  
 * &emsp;  🔭 I’m currently working on ...
 * &emsp;  🌱 I’m currently learning ...
@@ -28,7 +28,9 @@ You can use the website to generate badges: https://shields.io/
  
 </p>
 
-## Languages and Tools:
+<br>
+
+### Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
