@@ -36,7 +36,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/tatiana-merz">
-    <img width="55%" align="right" alt="Tatiana's github stats" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&hide_border=true&theme=tokionight&include_all_commits=true&count_private=true" />
+    <img width="55%" align="right" alt="Tatiana's github stats" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   </a>
   
   
