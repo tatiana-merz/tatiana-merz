@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <br>
 
-**Languages and Tools:** 
+## Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
