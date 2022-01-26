@@ -18,8 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-
-<img align="center" height="270px" width="350px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
+<img align="right" height="270px" width="350px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
 <br />
 
 - 🔭 I’m currently working on ...
@@ -38,7 +37,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -46,7 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <! --- <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>  --->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <! --- <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  --->
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
@@ -70,15 +69,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 ---
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
-
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
