@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
+<img align="right" height="220px" width="300px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
 <br />
 
 - 🔭 I’m currently working on ...
@@ -49,7 +49,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
 
 <br>
 
