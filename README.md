@@ -54,7 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-</div>
+
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
@@ -66,6 +66,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/tatiana-merz/onimur.svg" />
 </p>
-
+ 
+</div>
 ---
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
