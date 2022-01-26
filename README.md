@@ -12,12 +12,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/) -->
 
+<img align="right" height="200px" width="280px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-
-<img align="right" height="200px" width="280px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
