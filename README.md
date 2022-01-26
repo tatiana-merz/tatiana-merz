@@ -36,10 +36,13 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
+ 
+<div align="center">
   <a href="https://github.com/tatiana-merz">
-    <img width="55%" align="right" alt="Tatiana's github stats" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&hide_border=true&theme=buefy&include_all_commits=true&count_private=true" />
-  </a>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-merz&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+ 
   
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -61,6 +64,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
+
+
+
+
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
