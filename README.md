@@ -43,8 +43,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-merz&layout=compact&langs_count=7&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 
-   
-   <br>
+<br>
+<br>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
