@@ -40,21 +40,21 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/tatiana-merz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-merz&layout=compact&langs_count=7&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+
  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
