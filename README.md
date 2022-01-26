@@ -16,9 +16,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 
-<p align="center">
+
  
-### Talking about Personal Stuff:
+## Talking about Personal Stuff:
+<p align="center">
  
 * &emsp;  🔭 I’m currently working on ...
 * &emsp;  🌱 I’m currently learning ...
@@ -28,9 +29,8 @@ You can use the website to generate badges: https://shields.io/
  
 </p>
 
-<br>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
