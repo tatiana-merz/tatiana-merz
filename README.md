@@ -14,6 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img align="left" height="200px" width="280px" alt="GIF" src="https://camo.githubusercontent.com/4cab87d979eb19409fee71806cc3888e132060311f98356bb56fc4bb036f901c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56656b636e484f774f4935536f2f67697068792e676966" alt="The Cat I Want"/>
 
+
 <!-- Talking about you -->
 
 
@@ -37,8 +38,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <div align="center">
   <a href="https://github.com/tatiana-merz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-merz&layout=compact&langs_count=7&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tatiana-merz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-merz&layout=compact&langs_count=7&theme=buefy/>
 
 <br>
 <br>
