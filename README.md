@@ -21,9 +21,9 @@ You can use the website to generate badges: https://shields.io/
 ## Talking about Personal Stuff:
 <p align="center">
  
-* &emsp;  🔭 I’m currently working on building morphological tools for Yakut (Sakha)
-* &emsp;  🌱 I’m currently learning data visualization sashboards using R Shiny
-* &emsp;   ⚡ Fun fact: No, I am not obsessed with cats 🙀
+* &emsp;  🔭 Currently working on building morphological tools for Yakut (Sakha)
+* &emsp;  🌱 Learning data visualization dashboards using R Shiny
+* &emsp;   ⚡ No, I am not obsessed with cats 🙀
  
 </p>
 
