@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 * &emsp;  🔭 currently working on building morphological tools for Yakut (Sakha)
 * &emsp;  🌱 learning data visualization dashboards using R Shiny
 * &emsp;   ⚡ not obsessed with cats 🙀
-* &emsp;   [here](https://tatiana-merz.netlify.app)
+* &emsp;   🌐 [here](https://tatiana-merz.netlify.app)
  
 </p>
 
