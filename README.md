@@ -19,12 +19,13 @@ You can use the website to generate badges: https://shields.io/
 
 
  
-## Talking about Personal Stuff:
+## I am:
 <p align="center">
  
-* &emsp;  🔭 Currently working on building morphological tools for Yakut (Sakha)
-* &emsp;  🌱 Learning data visualization dashboards using R Shiny
-* &emsp;   ⚡ No, I am not obsessed with cats 🙀
+* &emsp;  🔭 currently working on building morphological tools for Yakut (Sakha)
+* &emsp;  🌱 learning data visualization dashboards using R Shiny
+* &emsp;   ⚡ not obsessed with cats 🙀
+* &emsp;   [here](https://www.linkedin.com/in/murillo-comino-6124ab49/](https://tatiana-merz.netlify.app)
  
 </p>
 
